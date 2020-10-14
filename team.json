@@ -1,0 +1,44 @@
+{
+    "1":{
+      "nume": "Vladimir",
+      "prenume": "Vlad",
+      "id_unic": 9999,
+      "pozitie": "manager",
+      "oras": "bucuresti
+
+  },
+
+    "2":{
+      "nume": "Bogdan",
+      "prenume": "Ilie",
+      "id_unic": 7777,
+      "pozitie": "operator",
+      "calificare": "frigotehnist",
+      "oras": "bucuresti
+  },
+
+    "3":{
+      "nume": "Ion",
+      "prenume": "Daniel",
+      "id_unic": 6666,
+      "pozitie": "operator",
+      "calificare": "instalator aragaz",
+      "oras": "bucuresti
+    },
+
+    "4":{
+      "nume": "Radu",
+      "prenume": "Stefan",
+      "id_unic": 5555,
+      "pozitie": "operator",
+      "calificare": "instalator electice",
+      "oras": "bucuresti
+    },
+   "5": {
+     "nume": "Icar",
+     "prenume": "Rares",
+     "id_unic": 4444,
+     "pozitie": "gestionar",
+     "oras": "bucuresti
+
+    }
